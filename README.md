@@ -31,7 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
-
 O Projeto devLinks, desenvolvido pela rocketseat, tem o intuito de mostrar os primeiros passos para ser um programador usando tecnologias para front end (html, css e javascript)
 
 ## 🔖 Layout
